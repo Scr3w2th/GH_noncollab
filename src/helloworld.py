@@ -1,4 +1,7 @@
+def hello_world(city):
+    print(f'Ello, live from the {city}')
+
 def main():
-    print("ELLo Wurl!!!")
+    hello_world("303")
     
 main()
